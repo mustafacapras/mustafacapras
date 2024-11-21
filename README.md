@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @mustafacapras
-- 👀 I’m interested in Backend Developer
-- 🌱 I’m currently learning --> Java, C++
-- 💞️ I’m looking to collaborate on --> Java,C++
+- 🌱 I’m currently learning --> Java & Spring
 - 📫 How to reach me --> mustacap.21gmail.com
 
 <!---
