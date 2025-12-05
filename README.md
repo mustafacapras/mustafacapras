@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mustafacapras
-- 🌱 I’m currently learning --> Java & Spring
+
 - 📫 How to reach me --> mustacap.21gmail.com
 
 <!---
