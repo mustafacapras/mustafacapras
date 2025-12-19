@@ -14,7 +14,7 @@
          width="30" />
   </a>
 
-  <a href="https://medium.com/@caprassmustafa" target="_blank">
+  <a href="https://medium.com/@mustafacapras" target="_blank">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/medium.svg"
          alt="Medium"
          height="30"
